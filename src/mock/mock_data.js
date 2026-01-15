@@ -91,7 +91,15 @@ export const mockData = {
       "icon": "🌐",
       "name": "VPN网站",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1768471442878",
+          "name": "sakuracat",
+          "url": "https://sakuracat-001.com/dashboard",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sakuracat-001.com"
+        }
+      ]
     },
     {
       "id": "cloud",
@@ -488,7 +496,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "金城武的个人导航",
-  "_fileSha": "9b1dcf7912029c3a6faea754ff6eb737d85092f6",
-  "search": "google"
+  "title": "猫猫导航🐱"
 }
