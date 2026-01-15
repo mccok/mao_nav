@@ -112,6 +112,13 @@ export const mockData = {
           "url": "https://wd-gold.net/cart.php",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/wd-gold.net"
+        },
+        {
+          "id": "site-1768476440118",
+          "name": "xttyun",
+          "url": "https://xttyun-2.men/#/dashboard",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/xttyun-2.men"
         }
       ]
     },
@@ -510,7 +517,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "金城武个人导航",
-  "_fileSha": "c5396d55f588da66b8f0c1221290845ae22b5433",
-  "search": "google"
+  "title": "金城武个人导航"
 }
