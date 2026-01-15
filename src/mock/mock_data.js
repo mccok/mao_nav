@@ -479,6 +479,13 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1768471000090",
+      "icon": "🌐",
+      "name": "VPN网站",
+      "order": 1,
+      "sites": []
     }
   ],
   "title": "猫猫导航🐱"
