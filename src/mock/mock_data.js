@@ -98,6 +98,20 @@ export const mockData = {
           "url": "https://sakuracat-001.com/dashboard",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/sakuracat-001.com"
+        },
+        {
+          "id": "site-1768475818100",
+          "name": "ssr",
+          "url": "https://ssr.wtf/user",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ssr.wtf"
+        },
+        {
+          "id": "site-1768475886026",
+          "name": "WestData",
+          "url": "https://wd-gold.net/cart.php",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wd-gold.net"
         }
       ]
     },
@@ -496,7 +510,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航🐱",
-  "_fileSha": "692fe8ca0bd1b911f6c4f62df8173aa38890d5ad",
-  "search": "google"
+  "title": "猫猫导航🐱"
 }
