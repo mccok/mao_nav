@@ -9,9 +9,9 @@ export const mockData = {
         {
           "id": "site-1752649007053",
           "name": "BeJson",
-          "url": "https://www.bejson.com/",
+          "url": "https://www.json.cn/",
           "description": "工具大全",
-          "icon": "/sitelogo/www.bejson.com.ico"
+          "icon": "https://www.faviconextractor.com/favicon/www.json.cn"
         },
         {
           "id": "linux-do",
@@ -517,7 +517,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "金城武个人导航",
-  "_fileSha": "8fa51811f132166799af57f74051af87ef6e5e89",
-  "search": "google"
+  "title": "金城武个人导航"
 }
